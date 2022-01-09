@@ -1,0 +1,17 @@
+{
+    "id": "2492889d-42d0-4384-b751-6666169d5cff",
+    "name": "Maachi Sami",
+    "img": "",
+    "email":"samovitch360@gmail.com",
+  "links": {
+      "website": "https://portfolio-reactjs-chi.vercel.app/",
+      "linkedin": "https://www.linkedin.com/in/sami-maachi-161925198/",
+      "github": "https://github.com/Sami-21"
+    },
+    "jobTitle": "CS Student / Front-end developer",
+    "location": {
+      "city": "Batna",
+      "state": "Batna",
+      "country": "Algeria"
+    }
+  }
